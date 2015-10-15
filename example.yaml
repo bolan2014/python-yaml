@@ -1,6 +1,6 @@
 house:
   address: {city: Nowheretown, number: 34, street: Main Street, zipcode: 12345}
   family:
-    children: [Paul, Mark, 123]
+    children: [Paul, Mark, Harden]
     name: Doe
     parents: [John, Jane]
